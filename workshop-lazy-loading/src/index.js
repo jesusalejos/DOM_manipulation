@@ -1,5 +1,5 @@
-import { registerImage } from "./lazy";
-import { createImageNodes } from "./utils";
+import { registerImage } from "./lazy.js";
+import { createImageNodes } from "./utils.js";
 
 // Cargue las imagenes existentes cuando cargue la página
 const allImages = document.querySelectorAll("img[data-src]");
