@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://platzi.com/cursos/dom/" target="_blank">
     <img alt="Curso de Manipulación del DOM" src="https://static.platzi.com/media/achievements/badge-manipulacion-dom-js-68f056c0-11d4-4533-8c75-693db60d85f8.png" width="60" />
@@ -19,3 +20,7 @@ Ayuda a otros estudiantes con eso que acabas de descubrir que haría este curso 
 * Por su parte, los [Pull Request](https://github.com/jonalvarezz/platzi-dom/pulls) siempre estarán abiertos para recibir mejoras puntuales.
 
 Happy hacking!
+=======
+# DOM_manipulation
+Course in platzi
+>>>>>>> b5941988a24fa50598009b5f687ca9174c132ceb
